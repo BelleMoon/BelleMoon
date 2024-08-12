@@ -1,12 +1,13 @@
 <h1 align="center">🕊️, I'm Hugo Cardoso</h1>
 <h3 align="center">Information Student by the University of São Paulo (USP).</h3>
-<img align="right" alt="Molecules" width="300" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0NTE5MzcsIm5iZiI6MTcwNjQ1MTYzNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDE0MjAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4OTZhNGMzZjdlYTg1YWMxODgwNmVjYjZjNzVkYThlNjY2MmNhZWE0Y2YxZGZkMmIyZDQ4NzU5MWNjMGRkOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QXzIFgscvm7R5ewhQwtUsqRsGoUxmsttpnvFInevGNo">
+
+<img align="right" alt="Math" width="300" src="https://lh3.googleusercontent.com/proxy/lYM6RIiVoGVMrgp3aLzuayD7FwOob51nvdvhBWzMyyN2Y3HCAFfcOtTbXHgRizusLfEhxg1KST_fXEXBAeNCo_xYbNl98-W2cnQfVw4mps7sJs1zaHCv6fQmUr-b0Yo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bellemoon&label=Profile%20views&color=0e75b6&style=flat" alt="bellemoon" /> </p>
 
-- 🌱 I’m currently learning **IS / AI / ML.**
+- 🌱 I’m currently learning **IS / AI / ML / Data Science.**
 
-- 💬 Ask me about **C, C++, Javascript, Golang, Solidity, Python, GDScript, JS, and Logic.**
+- 💬 Ask me about **Javascript, Typescript, Solidity, Python, and React Native.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
