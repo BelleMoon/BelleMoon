@@ -1,7 +1,9 @@
 <h1 align="center">🕊️, I'm Hugo Cardoso</h1>
 <h3 align="center">Information Student by the University of São Paulo (USP).</h3>
 
- <h2 class="effect__heading">“If you would be a real seeker after truth, you must at least once in your life doubt, as far as possible, all things.” </h2>
+
+ <h2 class="effect__heading"><i>“If you would be a real seeker after truth, you must at least once in your life doubt, as far as possible, all things.”</i></h2>
+
  
 <img align="right" alt="Math" width="300" src="https://lh3.googleusercontent.com/proxy/lYM6RIiVoGVMrgp3aLzuayD7FwOob51nvdvhBWzMyyN2Y3HCAFfcOtTbXHgRizusLfEhxg1KST_fXEXBAeNCo_xYbNl98-W2cnQfVw4mps7sJs1zaHCv6fQmUr-b0Yo">
 
